@@ -10,5 +10,5 @@ Bu proje, React kullanılarak geliştirilmiş bir yemek siparişi uygulamasıdı
 - Ruedux-Thunk 
 - React Icons kütüphanesi
 
-- ![Thunk gif](https://github.com/user-attachments/assets/382628a1-bd76-4fa5-a3c4-bb83dd78bc12)
+
 
